@@ -1,8 +1,4 @@
-
-/** TODO 1 Solution Start: Import the Scanner **/
 import java.util.Scanner;
-
-/** TODO 1 Solution End: Import the Scanner **/
 
 public class Main {
     public static void main(String args[]) {
