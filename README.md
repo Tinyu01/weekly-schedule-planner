@@ -21,7 +21,7 @@ A simple Java console application that helps users track their weekly schedule. 
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/weekly-schedule-planner.git
+git clone https://github.com/Tinyu01/weekly-schedule-planner.git
 ```
 
 2. Navigate to the project directory:
@@ -84,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [your.email@example.com](mailto:216135982@edu.vut.ac.za)
 
-Project Link: [https://github.com/yourusername/weekly-schedule-planner](https://github.com/yourusername/weekly-schedule-planner)
+Project Link: [https://github.com/yourusername/weekly-schedule-planner](https://github.com/Tinyu01/weekly-schedule-planner.git)
